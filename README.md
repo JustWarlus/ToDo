@@ -6,7 +6,7 @@ First clone the repository:
 `  
 git clone https://github.com/JustWarlus/ToDo.git  
 `  
-Second install npm and parcel: 
+Second install npm and parcel:  
 `  
 cd ToDo  
 `  
